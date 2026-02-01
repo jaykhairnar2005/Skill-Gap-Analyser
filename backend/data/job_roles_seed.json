@@ -1,0 +1,147 @@
+[
+    {
+        "domain": "IT & Software Development",
+        "roles": [
+            {
+                "title": "Machine Learning Engineer",
+                "description": "Design and implement machine learning models and algorithms.",
+                "required_skills": [
+                    "Python",
+                    "TensorFlow",
+                    "PyTorch",
+                    "Scikit-Learn",
+                    "SQL",
+                    "Pandas",
+                    "NumPy",
+                    "AWS",
+                    "Machine Learning"
+                ],
+                "experience_level": "Mid-Senior",
+                "salary_range": "$100k - $180k"
+            },
+            {
+                "title": "Backend Developer",
+                "description": "Build and maintain server-side logic and databases.",
+                "required_skills": [
+                    "Node.js",
+                    "Express",
+                    "Djanjo",
+                    "SQL",
+                    "MongoDB",
+                    "Redis",
+                    "Docker",
+                    "REST API",
+                    "Git"
+                ],
+                "experience_level": "Entry-Mid",
+                "salary_range": "$80k - $150k"
+            },
+            {
+                "title": "Frontend Developer",
+                "description": "Develop responsive and interactive user interfaces.",
+                "required_skills": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "React",
+                    "Redux",
+                    "TailwindCSS",
+                    "Git",
+                    "TypeScript"
+                ],
+                "experience_level": "Entry-Mid",
+                "salary_range": "$70k - $140k"
+            },
+            {
+                "title": "Full Stack Developer",
+                "description": "Handle both client-side and server-side development.",
+                "required_skills": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "React",
+                    "Node.js",
+                    "Express",
+                    "MongoDB",
+                    "SQL",
+                    "Git",
+                    "AWS"
+                ],
+                "experience_level": "Mid-Senior",
+                "salary_range": "$90k - $160k"
+            },
+            {
+                "title": "Mobile App Developer",
+                "description": "Create applications for iOS and Android platforms.",
+                "required_skills": [
+                    "React Native",
+                    "Flutter",
+                    "Swift",
+                    "Kotlin",
+                    "Firebase",
+                    "Git",
+                    "REST API"
+                ],
+                "experience_level": "Mid",
+                "salary_range": "$80k - $145k"
+            }
+        ]
+    },
+    {
+        "domain": "Data & Analytics",
+        "roles": [
+            {
+                "title": "Data Analyst",
+                "description": "Analyze raw data to find trends and answer business questions.",
+                "required_skills": [
+                    "SQL",
+                    "Excel",
+                    "Tableau",
+                    "Power BI",
+                    "Python",
+                    "R",
+                    "Statistics"
+                ],
+                "experience_level": "Entry-Mid",
+                "salary_range": "$65k - $110k"
+            },
+            {
+                "title": "Data Scientist",
+                "description": "Extract insights from structured and unstructured data using advanced analytics.",
+                "required_skills": [
+                    "Python",
+                    "R",
+                    "Machine Learning",
+                    "Statistics",
+                    "SQL",
+                    "Big Data",
+                    "Spark",
+                    "Hadoop"
+                ],
+                "experience_level": "Senior",
+                "salary_range": "$110k - $190k"
+            }
+        ]
+    },
+    {
+        "domain": "Design",
+        "roles": [
+            {
+                "title": "UI/UX Designer",
+                "description": "Design user-friendly interfaces and experiences.",
+                "required_skills": [
+                    "Figma",
+                    "Adobe XD",
+                    "Sketch",
+                    "Prototyping",
+                    "User Research",
+                    "Wireframing",
+                    "HTML",
+                    "CSS"
+                ],
+                "experience_level": "Mid",
+                "salary_range": "$75k - $130k"
+            }
+        ]
+    }
+]

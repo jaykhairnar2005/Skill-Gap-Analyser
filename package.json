@@ -1,0 +1,22 @@
+{
+  "name": "skill-gap-analyzer",
+  "version": "1.0.0",
+  "description": "AI-powered Student Skill Gap Analyzer",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'Run frontend with: cd frontend && npm start' && echo 'Run backend with: cd backend && npm start'",
+    "setup": "echo 'Setting up the project...'"
+  },
+  "keywords": [
+    "skill-gap",
+    "ai",
+    "career",
+    "education"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.13.4"
+  }
+}
