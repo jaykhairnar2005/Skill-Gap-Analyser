@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "AI-powered Student Skill Gap Analyzer - React Frontend",
   "private": true,
-  "proxy": "http://localhost:5000",
+
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
@@ -18,7 +18,7 @@
     "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.20.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "uuid": "^9.0.0",
     "web-vitals": "^2.1.4"
   },
@@ -29,7 +29,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "CI=false react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
