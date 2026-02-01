@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "AI-powered Student Skill Gap Analyzer - React Frontend",
   "private": true,
+  "engines": {
+  "node": "18.x"
+},
 
   "dependencies": {
     "@emotion/react": "^11.11.0",
